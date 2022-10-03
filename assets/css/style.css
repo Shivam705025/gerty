@@ -38,6 +38,22 @@ a:hover {
 .p-r {
   position: relative;
 }
+.skod {
+        display: inline-block;
+        padding: 10px 70px;
+		font-size: 27px;
+        text-align: center;
+        text-decoration: none;
+        color: #ffffff;
+        background-color: #27a5e7;
+        border-radius: 6px;
+        outline: none;
+      }
+	  .skod:hover {
+  text-decoration: none;
+  color: #ffffff;
+  box-shadow: 0 0 0 4px #cde1f8;
+}
 .skod1 {
         display: inline-block;
         padding: 10px 100px;
